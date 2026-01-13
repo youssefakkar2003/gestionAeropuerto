@@ -1,0 +1,7 @@
+com\mycompany\gestionaeropuerto\gestionAeropuerto.class
+com\mycompany\gestionaeropuerto\User.class
+com\mycompany\gestionaeropuerto\DatabaseConnection.class
+com\mycompany\gestionaeropuerto\DataManager.class
+com\mycompany\gestionaeropuerto\Flight.class
+com\mycompany\gestionaeropuerto\Airport.class
+com\mycompany\gestionaeropuerto\airPortManager.class
